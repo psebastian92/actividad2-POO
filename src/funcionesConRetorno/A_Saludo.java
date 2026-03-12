@@ -2,7 +2,7 @@ package funcionesConRetorno;
 
 public class A_Saludo {
 	public static void main(String[] args) {
-
+// Genero una variable del tipo String
 		String saludo = obtenerSaludo();
 		mostrarMensaje(saludo);
 		// mostrarMensaje( obtenerSaludo() ); esta línea hace lo mismo que la línea
